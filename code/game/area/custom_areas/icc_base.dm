@@ -33,3 +33,9 @@
 /area/antag_ship/icc/requisition
 	name = "CM Base Requisitions"
 	minimap_color = MINIMAP_AREA_REQ
+
+/area/antag_ship/icc/living_area
+	name = "CM Base Living Area"
+
+/area/antag_ship/icc/prisoner_holding
+	name = "CM Base Holding Prison"
